@@ -1,3 +1,13 @@
+# Additional notes from WHI
+## Dependency
+```
+sudo apt install curl
+```
+then power off the lidar and power on
+
+> belowing contents are originals
+
+
 [中文版本使用说明](<https://github.com/RichbeamTechnology/Lakibeam_ROS1_Driver/blob/main/README_CN.md>)
 
 # 1 About the Driver
